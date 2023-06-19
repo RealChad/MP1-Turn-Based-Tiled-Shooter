@@ -5,11 +5,11 @@ the functions and their respective algorithms and corresponding code by
 myself. The program was run, tested, and debugged by my own efforts. I
 further certify that I have not copied in part or whole or otherwise
 plagiarized the work of other students and/or persons.
-<Jan Robee E. Feliciano> - <12207004> - <S19A>
+<-------------> - <--------> - <S19A>
 ******************************************************************************/
 /*   
      Description:      <Turn-based Tiled Shooter>
-     Programmed by:    <Jan Robee E. Feliciano>   <S19A>
+     Programmed by:    <------------------->   <S19A>
      Last modified:    <December 4, 2022>
      Version:          <2.0>
     [Acknowledgements: <C Library - <stdlib.h>. (2022, November 20). Retrieved from https://www.tutorialspoint.com/c_standard_library/stdlib_h.htm#>
